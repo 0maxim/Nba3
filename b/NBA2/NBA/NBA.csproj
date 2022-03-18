@@ -86,17 +86,11 @@
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <SubType>Designer</SubType>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -117,10 +111,9 @@
     <Content Include="pictures\7.JPG" />
     <Content Include="pictures\8.JPG" />
     <Content Include="pictures\9.JPG" />
+    <Content Include="pictures\0.JPG" />
     <Content Include="pictures\NBA - Копировать.jpg" />
-    <None Include="Resources\стрелка право.png" />
-    <None Include="Resources\стрелка лево.png" />
-    <None Include="Resources\0.JPG" />
+    <Content Include="pictures\1.JPG" />
     <Content Include="Resources\d.png" />
     <Content Include="Resources\NBA.jpg" />
     <Content Include="Resources\NBA1.png" />

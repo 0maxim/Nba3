@@ -11,16 +11,3 @@ C:\Users\Student\Desktop\b\NBA2\NBA\obj\Debug\NBA.Properties.Resources.resources
 C:\Users\Student\Desktop\b\NBA2\NBA\obj\Debug\NBA.csproj.CoreCompileInputs.cache
 C:\Users\Student\Desktop\b\NBA2\NBA\obj\Debug\NBA.exe
 C:\Users\Student\Desktop\b\NBA2\NBA\obj\Debug\NBA.pdb
-C:\Users\chern\Desktop\b\NBA2\NBA\obj\Debug\NBA.csproj.AssemblyReference.cache
-C:\Users\chern\Desktop\b\NBA2\NBA\obj\Debug\NBA.csproj.SuggestedBindingRedirects.cache
-C:\Users\chern\Desktop\b\NBA2\NBA\obj\Debug\NBA.Form1.resources
-C:\Users\chern\Desktop\b\NBA2\NBA\obj\Debug\NBA.Form2.resources
-C:\Users\chern\Desktop\b\NBA2\NBA\obj\Debug\NBA.Form3.resources
-C:\Users\chern\Desktop\b\NBA2\NBA\obj\Debug\NBA.Properties.Resources.resources
-C:\Users\chern\Desktop\b\NBA2\NBA\obj\Debug\NBA.csproj.GenerateResource.cache
-C:\Users\chern\Desktop\b\NBA2\NBA\obj\Debug\NBA.csproj.CoreCompileInputs.cache
-C:\Users\chern\Desktop\b\NBA2\NBA\obj\Debug\NBA.exe
-C:\Users\chern\Desktop\b\NBA2\NBA\obj\Debug\NBA.pdb
-C:\Users\chern\Desktop\b\NBA2\NBA\bin\Debug\NBA.exe.config
-C:\Users\chern\Desktop\b\NBA2\NBA\bin\Debug\NBA.exe
-C:\Users\chern\Desktop\b\NBA2\NBA\bin\Debug\NBA.pdb

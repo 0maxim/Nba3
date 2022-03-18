@@ -22,10 +22,9 @@ namespace NBA
         {
             InitializeComponent();  
            // Players players = new Players ();
-            //players.setPlayersName();
-            //players.setPlayersCode(); 
-            //players [0] = new Players ();
-
+           // players.setPlayersName();
+           // players.setPlayersCode(); 
+           // players [0] = new Players ();
             Country country = new Country ();
             country.setCountryCode("ARG");
             country.setCountryName("Argentina");
