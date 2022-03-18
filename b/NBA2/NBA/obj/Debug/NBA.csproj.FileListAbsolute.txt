@@ -11,3 +11,4 @@ C:\Users\Student\Desktop\b\NBA2\NBA\obj\Debug\NBA.Properties.Resources.resources
 C:\Users\Student\Desktop\b\NBA2\NBA\obj\Debug\NBA.csproj.CoreCompileInputs.cache
 C:\Users\Student\Desktop\b\NBA2\NBA\obj\Debug\NBA.exe
 C:\Users\Student\Desktop\b\NBA2\NBA\obj\Debug\NBA.pdb
+C:\Users\Student\Desktop\b\NBA2\NBA\obj\Debug\NBA.Form4.resources
