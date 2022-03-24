@@ -1,0 +1,12 @@
+G:\[jhjirj\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\NBA.csproj.AssemblyReference.cache
+G:\[jhjirj\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.admin.resources
+G:\[jhjirj\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.NBA.resources
+G:\[jhjirj\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\NBA.Properties.Resources.resources
+G:\[jhjirj\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Team.resources
+G:\[jhjirj\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.teams.resources
+G:\[jhjirj\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.visitor.resources
+G:\[jhjirj\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\NBA.csproj.GenerateResource.cache
+G:\[jhjirj\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\NBA.GeneratedMSBuildEditorConfig.editorconfig
+G:\[jhjirj\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\NBA.AssemblyInfoInputs.cache
+G:\[jhjirj\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\NBA.AssemblyInfo.cs
+G:\[jhjirj\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\NBA.csproj.CoreCompileInputs.cache
