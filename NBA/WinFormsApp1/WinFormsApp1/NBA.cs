@@ -49,15 +49,15 @@ namespace WinFormsApp1
             players[4] = player;
 
             Team1 team1 = new Team1();
-            team1.set("1", "Miami Heat","1", "2");
+            team1.set(1, "Miami Heat","1", "2");
             teams1[0] = team1;
-            team1.set("2", "Orlando Magic", "3", "4");
+            team1.set(2, "Orlando Magic", "3", "4");
             teams1[1] = team1;
-            team1.set("3", "Atlanta Hawks", "5", "6");
+            team1.set(3, "Atlanta Hawks", "5", "6");
             teams1[2] = team1;
-            team1.set("4", "Washington Wizards", "7", "8");
+            team1.set(4, "Washington Wizards", "7", "8");
             teams1[3] = team1;
-            team1.set("5", "Charlotte Hornets", "9", "10");
+            team1.set(5, "Charlotte Hornets", "9", "10");
             teams1[4] = team1;
 
             Position position = new Position();
