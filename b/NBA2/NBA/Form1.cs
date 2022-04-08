@@ -14,7 +14,6 @@ namespace NBA
     { //imglist 
         Country [] countries = new Country [6];
         Players [] players = new Players [6];
-        Team [] teams = new Team [6];
 
         String[] imgList = new String[] 
         { "0.JPG", "1.JPG", "2.JPG", "3.JPG", "4.JPG", "5.JPG", "6.JPG", "7.JPG", "8.JPG", "9.JPG", "10.JPG" };
@@ -22,68 +21,10 @@ namespace NBA
         public Form1()
         {
             InitializeComponent();  
-            Team team = new Team ();
-            Team team = new Team();
-            team.setTeamId(1);
-            team.setName("Miami Heat");
-            team.setAbbr("MIA");
-            team.setLogo("1.jpg");
-            teams[0] = team;
-
-            team.setTeamId(2);
-            team.setName("Orlando Magic");
-            team.setAbbr("ORL");
-            team.setLogo("2.jpg");
-            teams[1] = team;
-
-            team.setTeamId(3);
-            team.setName("Atlanta Hawks");
-            team.setAbbr("ATL");
-            team.setLogo("3.jpg");
-            teams[2] = team;
-
-            team.setTeamId(4);
-            team.setName("Washington Wizards");
-            team.setAbbr("WSH");
-            team.setLogo("4.jpg");
-            teams[3] = team;
-
-            team.setTeamId(5);
-            team.setName("Charlotte Hornets");
-            team.setAbbr("CHA");
-            team.setLogo("5.jpg");
-            teams[4] = team;
-
-            POSITIONNAME pOSITIONNAME = new POSITIONNAME();
-            pOSITIONNAME.setPositionId("1");
-            pOSITIONNAME.setName("SmallForward");
-            pOSITIONNAMEs[0] = pOSITIONNAME;
-
-            pOSITIONNAME.setPositionId("2");
-            pOSITIONNAME.setName("PowerForward");
-            pOSITIONNAMEs[1] = pOSITIONNAME;
-
-            pOSITIONNAME.setPositionId("3");
-            pOSITIONNAME.setName("Center");
-            pOSITIONNAMEs[2] = pOSITIONNAME;
-
-            pOSITIONNAME.setPositionId("4");
-            pOSITIONNAME.setName("ShootingGuard");
-            pOSITIONNAMEs[3] = pOSITIONNAME;
-
-            pOSITIONNAME.setPositionId("5");
-            pOSITIONNAME.setName("PointGuard");
-            pOSITIONNAMEs[4] = pOSITIONNAME;
-
-            teams[0] = team;
-            
-            
-
-
-            players = new Players [6];
-            players[0] = players;
-            
-
+            Players players = new Players ();
+            players.setPlayersName();
+            players.setPlayersCode(); 
+            players [0] = new Players ();
             Country country = new Country ();
             country.setCountryCode("ARG");
             country.setCountryName("Argentina");
